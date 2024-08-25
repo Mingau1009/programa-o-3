@@ -44,7 +44,7 @@ public class Main {
         PrincipioDeInversaoDeDependencia.executarLegado();
         System.out.println("\n");
         PrincipioDeInversaoDeDependencia.executarRefatorado();
-
+        System.out.println("Salve tropa");
         System.out.println("TESTE GIT");
     }
 }
